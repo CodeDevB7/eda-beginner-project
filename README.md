@@ -1,3 +1,10 @@
+# World Happiness Report 2021 - EDA
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-green)](https://pandas.pydata.org)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # eda-beginner-project
 My first project for learning data science.
 
